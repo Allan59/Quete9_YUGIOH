@@ -1,4 +1,5 @@
 <?php 
+    include 'connexion.php';
     include 'head.php';
     include 'header.php';
 
